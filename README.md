@@ -17,7 +17,7 @@ in FastAPI.
 
 
 My favorite Pokemon is Snorlax! He's forever a mood. 
-A laidback powerhouse but also a giant snuggly bear that sleeps all day?
+I love its laid-back nature, strength, and gentle spirit
 Plus its tank/defense traits make him tough to beat in battles.
 
 Honarary Mention: Jiggly Puff, I love a playful mischevious character.
