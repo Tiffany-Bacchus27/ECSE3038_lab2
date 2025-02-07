@@ -11,12 +11,12 @@ data = []
 class Person(BaseModel):
     name: str
     occupation: str
-    address: str
+    age: int
 
 @app.post("/person")
 async def add_person(person_request: Person):
     
-    if not person_request.name or not person_request.occupation or not person_request.address:
+    if not person_request.name or not person_request.occupation or not person_request.age:
         return {
             "success": False,
             "result": {
