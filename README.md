@@ -16,8 +16,8 @@ This code was written as part of a programming assignment to practice building P
 in FastAPI.                                      
 
 
-My favorite Pokemon is Snorlax! He's forever a mood. 
-I love its laid-back nature, strength, and gentle spirit
-Plus its tank/defense traits make him tough to beat in battles.
+My favorite Pokemon is Snorlax! He's a forever mood. 
+I love its laid-back nature, strength, and gentle spirit. Snorlax definitely stands
+out from the usual flashy and fast Pokemon, offering a sense of calm and endurance.
 
 Honarary Mention: Jiggly Puff, I love a playful mischevious character.
