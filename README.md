@@ -1,7 +1,7 @@
 # ECSE3038_lab2
 
 This lab was designed to be FastAPI based for 
-managing a list of people in a JSON containing 'name', 'occupation', and 'age'.
+managing a list of persons in a JSON containing 'name', 'occupation', and 'age'.
 It is supported by two main operations: POST - adds a new person to the data
                                         GET  - retreives a list of all the persons stored in the datastore.
 The function 'add_person' receives the field from the dictionary, checks that none of the fields
